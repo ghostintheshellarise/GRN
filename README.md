@@ -1,1 +1,1 @@
-# HierarchicalRNN_GRN
+# Hierarchical-RNN-GRN
